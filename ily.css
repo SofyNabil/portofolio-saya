@@ -1,5 +1,5 @@
 :root {
-  --my-custom-color: #eb343a;
+  --my-custom-color: #e26481;
 }
 
 section {
@@ -8,8 +8,8 @@ section {
 }
 
 .custom-thumbnail {
-  border: 4px solid #fa3f41 !important; /* Warna border biru Bootstrap */
-  box-shadow: 0 0 15px #fa3f41 !important; /* Shadow default */
+  border: 4px solid #e26481 !important; /* Warna border biru Bootstrap */
+  box-shadow: 0 0 15px #e26481 !important; /* Shadow default */
 }
 
 .hero-box .box p {
